@@ -13,7 +13,7 @@ const Navbar = () => {
           className="flex items-center mb-2 sm:mb-0 hover:opacity-90 transition duration-300"
         >
           <span className="text-2xl font-extrabold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-transparent bg-clip-text">
-            PRODUCT STORE
+            Shopipi
           </span>
           <FaShoppingCart className="ml-3 text-indigo-600 text-3xl" />
         </Link>
